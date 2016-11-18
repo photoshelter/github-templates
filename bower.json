@@ -1,0 +1,17 @@
+{
+  "name": "github-templates",
+  "authors": [
+    "kc <kc@photoshelter.com>"
+  ],
+  "description": "templates for github",
+  "main": "readme.md",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
