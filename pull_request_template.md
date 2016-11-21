@@ -10,11 +10,11 @@
 <!-- All the issues that this PR is attempting to solve in a checklist. -->
 <!-- Reference with pound sign notation and check as complete. emoji optional -->
 
- - [ ]# :ledger:   (documentation)
- - [ ]# :sparkles: (feature)
- - [ ]# :wrench:   (refactor)
- - [ ]# :bug:      (bugfix)
- - [ ]# :pill:     (tests)
+ - [ ] # :ledger:   (documentation)
+ - [ ] # :sparkles: (feature)
+ - [ ] # :wrench:   (refactor)
+ - [ ] # :bug:      (bugfix)
+ - [ ] # :pill:     (tests)
 
 ### Todos
 <!-- Any prerequisites that need to happen before this is ready. -->
