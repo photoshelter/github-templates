@@ -1,8 +1,8 @@
-## Issue
 <!-- Provide a general summary of the issue in the Title above  -->
-<!-- Add an emoji to make it easy to determine at a glance. :) -->
+<!-- Add an emoji to make it easy to determine at a glance. -->
 <!--
 :ledger:   (documentation)
+:rocket:   (performance)
 :pill:     (tests)
 :bug:      (bug)
 :question: (question)
