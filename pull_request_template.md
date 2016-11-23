@@ -12,6 +12,7 @@
 
  - [ ] # :ledger:   (documentation)
  - [ ] # :sparkles: (feature)
+ - [ ] # :rocket:   (preformance)
  - [ ] # :wrench:   (refactor)
  - [ ] # :bug:      (bugfix)
  - [ ] # :pill:     (tests)
