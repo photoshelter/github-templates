@@ -1,5 +1,5 @@
 <!-- Provide a general summary of the issue in the Title above  -->
-<!-- Add an emoji to make it easy to determine at a glance. -->
+<!-- Add an emoji on the topline to make it easy to determine at a glance when shared in slack. -->
 <!--
 :ledger:   (documentation)
 :rocket:   (performance)
