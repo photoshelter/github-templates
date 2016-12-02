@@ -11,10 +11,11 @@
 <!-- Reference with pound sign notation and check as complete. emoji optional -->
 
  - [ ] # :ledger:   (documentation)
- - [ ] # :pill:     (tests)
  - [ ] # :sparkles: (feature)
+ - [ ] # :rocket:   (preformance)
  - [ ] # :wrench:   (refactor)
  - [ ] # :bug:      (bugfix)
+ - [ ] # :pill:     (tests)
 
 ### Todos
 <!-- Any prerequisites that need to happen before this is ready. -->

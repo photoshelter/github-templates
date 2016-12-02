@@ -2,11 +2,11 @@
 <!-- -->
 <!-- -->
 <!-- -->
-<!-- -->
 <!-- Add an emoji to the top line of this doc make it easy to determine what kind -->
 <!-- of issue this is when shared on social channels. :) -->
 <!--
 :ledger:   (documentation)
+:rocket:   (performance)
 :pill:     (tests)
 :bug:      (bug)
 :question: (question)
