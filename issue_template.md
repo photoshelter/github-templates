@@ -44,6 +44,16 @@
 - 1.
 - 2.
 
+### Related Issues
+<!-- List of related Issues. -->
+
+Issue Number | Status
+-------------| -----
+#            | :construction: (blocker)
+#            | :rotating_light: (blocked)
+
+
+
 ### Your Environment :globe_with_meridians:
 <!-- Include as many relevant details about the environment you experienced the bug in -->
 * Version used:
