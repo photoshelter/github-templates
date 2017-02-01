@@ -1,7 +1,10 @@
 ## PR Name
 
 ### Status
-**READY :green_heart:/IN REVIEW:yellow_heart:/HOLD:broken_heart:**
+<!--  -->
+- [ ] **ON HOLD** :broken_heart:
+- [ ] **IN REVIEW** :yellow_heart:
+- [ ] **READY TO MERGE** :green_heart:
 
 ### Description
 <!-- A few sentences describing the overall goals of the pull request's commits. -->
